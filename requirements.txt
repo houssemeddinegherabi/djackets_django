@@ -54,7 +54,6 @@ virtualenv==20.2.1
 Werkzeug==0.15.4
 whitenoise==5.1.0
 wrapt==1.12.1
-djangorestframework
 markdown
 django-filter
 PyYAML
