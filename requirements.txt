@@ -60,5 +60,3 @@ uritemplate
 Pygments
 django-guardian 
 djoser
-djangorestframework_simplejwt
-social-auth-app-django
