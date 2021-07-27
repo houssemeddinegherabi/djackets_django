@@ -59,4 +59,3 @@ PyYAML
 uritemplate
 Pygments
 django-guardian 
-django-cors-headers
