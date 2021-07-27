@@ -55,7 +55,6 @@ Werkzeug==0.15.4
 whitenoise==5.1.0
 wrapt==1.12.1
 markdown
-django-filter
 PyYAML
 uritemplate
 Pygments
